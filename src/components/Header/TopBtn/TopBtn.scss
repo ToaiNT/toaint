@@ -1,0 +1,29 @@
+
+.back-top button {
+	background: #f1ba00;
+	display: inline-block;
+	height: 60px;
+	position: fixed;
+    bottom: 40px;
+	right: 40px;
+	width: 60px;
+	cursor: pointer;
+	text-align: center;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border-radius: 40px 40px 40px 40px;
+	border: 5px solid #f7f7f5;
+    text-decoration: none;
+}
+
+.back-top button:before {
+	font-family: "FontAwesome";
+	content: "\f077";
+	font-size: 25px;
+	display: block;
+	line-height: 45px;
+	color: #2e2e2c;
+}
+
+.back-top button:hover {
+	background: #75bf97;
+}

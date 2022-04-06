@@ -1,0 +1,55 @@
+.sale-page {
+    
+    .header {
+        height:40px;
+        padding: 16px;
+        background-color: #4285de;
+        color: #fff;
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        
+        p {
+            margin: 0;
+        }
+    }
+    
+    .main-content {
+        justify-content: space-around;
+        padding: 48px 32px 0;
+    }
+    .card {
+        max-width: 45%;
+        padding-bottom: 32px;
+        border: none;
+        text-align: left;
+        
+        .card-item {
+            background-color: #ddd;
+            padding-bottom: 20px;
+            border-radius: 12px;
+
+            h5 {
+                min-height: 48px;
+            }
+            p {
+                margin-bottom: 0;
+            }
+    
+            img {
+                max-height: 300px;
+            }
+    
+            .card-bottom {
+                font-size: 14px;
+                padding: 0 16px;
+                border-top: 1px solid #000;
+                min-height: 72px;
+            }
+        }
+
+        
+    }
+}

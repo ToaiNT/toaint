@@ -1,0 +1,37 @@
+.nav-list { 
+    display: none;
+}
+@media (min-width: 1024px) {
+    .nav-list { 
+        display: block;
+    }
+}
+.nav-list {
+    color: #8a8a8a;
+    font-size: 14px;
+
+    .tr-item {
+        border: 1px solid #ccc;
+
+        .name-type {
+            min-width: 200px;
+        }
+        &:hover {
+            font-weight: 700;
+
+            .fa {
+                color: #0f65d8;
+            }
+        }
+    }
+    .item {
+        text-decoration: none;
+        color: #8a8a8a;
+        padding: 0;
+
+        &:hover {
+            color: #0f65d8;
+            cursor: pointer;
+        }
+    }
+}

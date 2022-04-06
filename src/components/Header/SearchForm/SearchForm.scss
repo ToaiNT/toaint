@@ -1,0 +1,66 @@
+.form-container {
+    position: relative;
+    display: flex;
+
+    .search-form {
+        background-image: url("https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/search-512.png");
+        background-position: 132px center;
+        background-repeat: no-repeat;
+        background-size: 20px 20px;
+    
+        font-size: 12px;
+        line-height: 1.8; 
+    }
+    .container-search {
+        position: absolute;
+        z-index: 500;
+        top: 35.6px;
+        left: 0px;
+
+        width: 450px;
+        background-color: #fff;
+        color: #4285de;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+
+        .search-item {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+            padding: 4px;
+            border-bottom: 1px solid #ccc;
+
+            p {
+                margin-bottom: 0;
+            }
+            .item-left {
+                width: 20%;
+                img {
+                    width:75px;
+                }
+            }
+            .item-center {
+                padding: 4px;
+                width: 60%;
+
+            }
+            .item-right {
+                width: 20%;
+                text-align: center;
+
+                .old-price {
+                    text-decoration: line-through;
+                    color: #ccc;
+                }
+                .new-price {
+                    color: rgb(240, 58, 34);
+                    font-weight: 700;
+                }
+                .btn {
+                    font-size: 8px;
+                }
+            }
+        }
+    }
+}

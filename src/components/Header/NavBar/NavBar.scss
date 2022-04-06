@@ -1,0 +1,105 @@
+nav.navHeader {
+  background-color: #009ee1;
+  padding: 0px 12px;
+
+  display: flex;
+  justify-content: center;
+
+  .navbar-center {
+    display: flex;
+    justify-content: center;
+  }
+  .row {
+    --bs-gutter-x: 0rem;
+    text-align: left;
+  }
+
+  .nav-item {
+    border-left: 1px solid #4285de;
+
+    display: flex;
+    align-items: center;
+
+    .nav-link {
+      color: #fff !important;
+      font-size: 12px;
+      padding: 5px 8px;
+      margin: auto 4px;
+
+      position: relative;
+
+      &.cursor-none:hover {
+        cursor: not-allowed !important;
+      }
+      &:hover {
+        color: #fff200 !important;
+        cursor: pointer;
+      }
+    }
+    .color-gold {
+      color: #fff200 !important;
+    }
+    span {
+      color: #ccc;
+    }
+    .cart-btn {
+      border: 1px solid #fff;
+      padding: 8px;
+
+      &:hover {
+        opacity: 0.8;
+        color: #fff !important;
+        background-color: rgba($color: #fff, $alpha: 0.5);
+      }
+    }
+    .dot-gold {
+      margin: 13px 8px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: #ffe66b;
+    }
+    .dot-animation {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+
+      border-radius: 50%;
+      border: 1px solid #ffe66b;
+
+      @keyframes borderDot {
+        from {
+          width: 10px;
+          height: 10px;
+          opacity: 1;
+        }
+        to {
+          width: 25px;
+          height: 25px;
+          opacity: 0.5;
+        }
+      }
+      animation: borderDot 1s infinite;
+    }
+  }
+}
+@media (max-width: 1024px) {
+  .navbar-center {
+    justify-content: space-between !important;
+    width: 100%;
+  }
+  .navbar-toggler {
+    order: -1;
+  }
+  .navbar-nav {
+    margin-right: 0px !important;
+  }
+  .pre-order,
+  #carouselExampleIndicators {
+    margin: 0px;
+  }
+  nav.navHeader .nav-item .cart-btn {
+    margin-right: 0 !important;
+  }
+}

@@ -1,0 +1,27 @@
+.hidden {
+    display: none !important;
+}
+.suggestion {
+    z-index: 3;
+    color: #fff;
+    position: absolute;
+    top: 52.6px;
+    left: 15%;
+
+    .arrow-up {
+        width: 0;
+        height: 0;
+
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-bottom: 8px solid #4285de;
+
+        position: absolute;
+        top: -8px;
+        left: 50%;
+    }
+    
+    .card {
+        background-color: #4285de;
+    }
+}

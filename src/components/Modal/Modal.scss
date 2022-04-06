@@ -1,0 +1,38 @@
+.modal {
+    .modal-dialog {
+        max-width: 500px;
+        margin: auto;
+
+        top: 50%;
+        transform: translateY(-50%) !important;
+    }
+    .modal-header {
+        position: relative;
+        justify-content: center;
+
+        .btn-close {
+            position: absolute;
+            right: 20px;
+        }
+    }
+    .modal-body {
+        text-align: left;
+        padding: 24px;
+        p {
+            margin: 4px 0;
+        }
+        .see-list {
+            color: #4285de;
+            text-decoration: none;
+        }
+    }
+    .modal-footer {
+
+        .btn-confirm {
+            background-color: #f8850a;
+            color: #fff;
+            width: 90%;
+            margin: auto;
+        }
+    }
+}

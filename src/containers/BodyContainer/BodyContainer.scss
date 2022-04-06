@@ -1,0 +1,14 @@
+.fixed-1 {
+    width: calc(0.5*(100% - 1200px)/2);
+    position: fixed;
+    top: 50%;
+    left: calc(0.5*(100% - 1200px)/2);
+    transform: translateY(-50%)
+}
+.fixed-2 {
+    width: calc(0.5*(100% - 1200px)/2);
+    position: fixed;
+    top: 50%;
+    right: calc(0.5*(100% - 1200px)/2);
+    transform: translateY(-50%)
+}

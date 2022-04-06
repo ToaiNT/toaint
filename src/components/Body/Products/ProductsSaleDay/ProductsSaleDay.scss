@@ -1,0 +1,23 @@
+.product-slider {
+  color: #fff;
+  background-color: #4d90e0;
+
+  border-radius: 4px;
+  padding-bottom: 24px;
+  .title {
+    text-align: left;
+    padding: 12px;
+    font-size: 24px;
+  }
+}
+
+.slick-list {
+  margin: 0 4px;
+  .slick-track {
+    display: flex !important;
+
+    .slick-slide {
+      justify-content: center !important;
+    }
+  }
+}

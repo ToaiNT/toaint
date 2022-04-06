@@ -1,0 +1,1146 @@
+{
+  "products": [
+    {
+      "type": "Tivi",
+      "list": [
+        {
+          "id": 1,
+          "image": "https://cdn.tgdd.vn/Products/Images/1942/244299/untitled-1-550x340.jpg",
+          "name": "LG Smart TV QNED 75QNED91TPA",
+          "specialFeature": "55 inch, 4K",
+          "online": true,
+          "price": 25900000,
+          "sale": 11,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 33,
+          "inventory": 0
+        },
+        {
+          "id": 2,
+          "image": "https://cdn.tgdd.vn/Products/Images/1942/244444/pic2-550x340.jpg",
+          "name": "LG Smart TV QNED 75QNED99TPB",
+          "specialFeature": "75 inch, 8K",
+          "online": true,
+          "price": 139900000,
+          "sale": 0,
+          "gift": "Giảm thêm 21.010.000đ và quà 10.149.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 3,
+          "image": "https://cdn.tgdd.vn/Products/Images/1942/232170/casper-32hx6200-550x340.jpg",
+          "name": "Casper 32HX6200",
+          "specialFeature": "32 inch, HD",
+          "online": true,
+          "price": 6990000,
+          "sale": 20,
+          "gift": "Quà 300.000đ",
+          "star": 3,
+          "evaluateQuanty": 8,
+          "inventory": 0
+        },
+        {
+          "id": 4,
+          "image": "https://cdn.tgdd.vn/Products/Images/1942/236884/up7750-550x340.jpg",
+          "name": "LG Smart TV 55UP7550PTC",
+          "specialFeature": "55 inch, 4K",
+          "online": true,
+          "price": 20900000,
+          "sale": 26,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 22,
+          "inventory": 20
+        },
+        {
+          "id": 5,
+          "image": "https://cdn.tgdd.vn/Products/Images/1942/221005/sony-kd-55x7500h-193620-103647-550x340.jpg",
+          "name": "Sony Android TV KD-55X7500H",
+          "specialFeature": "55 inch, 4K",
+          "online": true,
+          "price": 17400000,
+          "sale": 0,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 18,
+          "inventory": 0
+        },
+        {
+          "id": 6,
+          "image": "https://cdn.tgdd.vn/Products/Images/1942/236895/nanocell-lg-55nano75tpa-avatar-1-550x340.jpeg",
+          "name": "LG Smart TV NanoCell 55NANO75TPA",
+          "specialFeature": "55 inch, 4K",
+          "online": true,
+          "price": 25900000,
+          "sale": 30,
+          "gift": "Quà 300.000đ",
+          "star": 5,
+          "evaluateQuanty": 16,
+          "inventory": 0
+        }
+      ]
+    },
+    {
+      "type": "Lọc nước",
+      "list": [
+        {
+          "id": 7,
+          "image": "https://cdn.tgdd.vn/Products/Images/3385/225471/ro-kangaroo-kg88avtu-7-loi-145120-025132-300x300.jpg",
+          "name": "Máy lọc nước RO Kangaroo KG88AVTU 7 lõi",
+          "specialFeature": "",
+          "online": false,
+          "price": 5390000,
+          "sale": 25,
+          "gift": "",
+          "star": 3,
+          "evaluateQuanty": 5,
+          "inventory": 0
+        },
+        {
+          "id": 8,
+          "image": "https://cdn.tgdd.vn/Products/Images/3385/195809/korihome-wpk-g61-4-300x300.jpg",
+          "name": "Máy lọc nước RO Korihome K-PRO WPK-G61 10 lõi",
+          "specialFeature": "",
+          "online": false,
+          "price": 8690000,
+          "sale": 40,
+          "gift": "",
+          "star": 3,
+          "evaluateQuanty": 13,
+          "inventory": 20
+        },
+        {
+          "id": 9,
+          "image": "https://cdn.tgdd.vn/Products/Images/3385/225018/ro-karofi-b930-9-loi-300x300.jpg",
+          "name": "Máy lọc nước RO Karofi B930 9 lõi",
+          "specialFeature": "",
+          "online": false,
+          "price": 7190000,
+          "sale": 30,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 70,
+          "inventory": 0
+        },
+        {
+          "id": 10,
+          "image": "https://cdn.tgdd.vn/Products/Images/3385/236973/ion-kiem-ionpia-5100-5-loi-20-300x300.jpg",
+          "name": "Máy lọc nước ion kiềm IONPIA 5100 5 lõi 7 tấm điện cực",
+          "specialFeature": "",
+          "online": false,
+          "price": 55000000,
+          "sale": 25,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 11,
+          "image": "https://cdn.tgdd.vn/Products/Images/3385/226083/ro-dien-phan-kangaroo-kg100es-7-loi-1-300x300.jpg",
+          "name": "Máy lọc nước RO hydrogen ion kiềm Kangaroo KG100ES 7 lõi",
+          "specialFeature": "",
+          "online": false,
+          "price": 11900000,
+          "sale": 36,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Điện gia dụng",
+      "list": [
+        {
+          "id": 12,
+          "image": "https://cdn.tgdd.vn/Products/Images/9418/240167/tefal-ey201815-thumb-300x300.jpg",
+          "name": "Nồi chiên không dầu Tefal EY201815 4.2 lít",
+          "specialFeature": "",
+          "online": true,
+          "price": 3999000,
+          "sale": 50,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 4,
+          "inventory": 20
+        },
+        {
+          "id": 13,
+          "image": "https://cdn.tgdd.vn/Products/Images/1990/241709/cam-tay-midea-mcv-16t-b-1-300x300.jpg",
+          "name": "Máy hút bụi cầm tay Midea MCV-16T-B",
+          "specialFeature": "",
+          "online": true,
+          "price": 1290000,
+          "sale": 23,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 0
+        },
+        {
+          "id": 14,
+          "image": "https://cdn.tgdd.vn/Products/Images/5473/213680/may-loc-khong-khi-kangaroo-kg40ap-avata-300x300.jpg",
+          "name": "Máy lọc không khí Kangaroo KG40AP",
+          "specialFeature": "",
+          "online": true,
+          "price": 6950000,
+          "sale": 45,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 0
+        },
+        {
+          "id": 15,
+          "image": "https://cdn.tgdd.vn/Products/Images/1922/231132/midea-mb-hs5008-18-lit-thumb-300x300.jpg",
+          "name": "Nồi cơm cao tần Midea MB-HS5008 1.8 lít",
+          "specialFeature": "",
+          "online": true,
+          "price": 3290000,
+          "sale": 24,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 0
+        },
+        {
+          "id": 16,
+          "image": "https://cdn.tgdd.vn/Products/Images/1982/234841/kangaroo-kg859i-10-300x300.jpg",
+          "name": "Bếp từ đôi Kangaroo KG859i",
+          "specialFeature": "",
+          "online": true,
+          "price": 12500000,
+          "sale": 20,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 27,
+          "inventory": 20
+        },
+        {
+          "id": 17,
+          "image": "https://cdn.tgdd.vn/Products/Images/7498/100538/sunhouse-shd7721-100538-300x300.jpg",
+          "name": "Quạt điều hòa Sunhouse SHD7721",
+          "specialFeature": "",
+          "online": true,
+          "price": 4990000,
+          "sale": 38,
+          "gift": "",
+          "star": 3,
+          "evaluateQuanty": 95,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Máy giặt",
+      "list": [
+        {
+          "id": 18,
+          "image": "https://cdn.tgdd.vn/Products/Images/1944/236160/ww10ta046ae-300x300.jpg",
+          "name": "Samsung Inverter 10kg WW10TA046AE/SV",
+          "specialFeature": "",
+          "online": true,
+          "price": 15090000,
+          "sale": 28,
+          "gift": "Quà 300.000đ",
+          "star": 3,
+          "evaluateQuanty": 7,
+          "inventory": 20
+        },
+        {
+          "id": 19,
+          "image": "https://cdn.tgdd.vn/Products/Images/1944/236157/wd95t754dbx-5-300x300.jpg",
+          "name": "Samsung Inverter 9.5 Kg WD95T754DBX/SV",
+          "specialFeature": "",
+          "online": true,
+          "price": 16090000,
+          "sale": 24,
+          "gift": "Quà 300.000đ",
+          "star": 5,
+          "evaluateQuanty": 8,
+          "inventory": 20
+        },
+        {
+          "id": 20,
+          "image": "https://cdn.tgdd.vn/Products/Images/1944/212740/panasonic-na-v90fx1lvt-13-300x300.jpg",
+          "name": "Panasonic Inverter 9 Kg NA-V90FX1LVT",
+          "specialFeature": "",
+          "online": false,
+          "price": 15990000,
+          "sale": 20,
+          "gift": "Quà 300.000đ",
+          "star": 5,
+          "evaluateQuanty": 129,
+          "inventory": 20
+        },
+        {
+          "id": 21,
+          "image": "https://cdn.tgdd.vn/Products/Images/1944/219247/toshiba-tw-bk105s2v-ws-12-300x300.jpg",
+          "name": "Toshiba Inverter 9.5 Kg TW-BK105S2V(WS)",
+          "specialFeature": "",
+          "online": false,
+          "price": 10090000,
+          "sale": 14,
+          "gift": "Quà 600.000đ",
+          "star": 4,
+          "evaluateQuanty": 100,
+          "inventory": 20
+        },
+        {
+          "id": 22,
+          "image": "https://cdn.tgdd.vn/Products/Images/1944/208774/aqua-aqw-dr100et-s-11-300x300.jpg",
+          "name": "Aqua Inverter 10 Kg AQW-DR100ET S",
+          "specialFeature": "",
+          "online": true,
+          "price": 8390000,
+          "sale": 19,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 200,
+          "inventory": 20
+        },
+        {
+          "id": 23,
+          "image": "https://cdn.tgdd.vn/Products/Images/1944/241918/fv1450s3w2-300x300.jpg",
+          "name": "LG Inverter 10.5 Kg FV1450S3W2",
+          "specialFeature": "",
+          "online": false,
+          "price": 16690000,
+          "sale": 22,
+          "gift": "Quà 300.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Tủ lạnh",
+      "list": [
+        {
+          "id": 24,
+          "image": "https://cdn.tgdd.vn/Products/Images/1943/158939/samsung-rt35k5982bs-sv-300x300.jpg",
+          "name": "Samsung Inverter 360 lít RT35K5982BS/SV",
+          "specialFeature": "",
+          "online": true,
+          "price": 18890000,
+          "sale": 23,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 91,
+          "inventory": 20
+        },
+        {
+          "id": 25,
+          "image": "https://cdn.tgdd.vn/Products/Images/1943/215507/lg-gn-b422wb-19-300x300.jpg",
+          "name": "LG Inverter 393 lít GN-B422WB",
+          "specialFeature": "",
+          "online": false,
+          "price": 10190000,
+          "sale": 8,
+          "gift": "Quà 300.000đ",
+          "star": 5,
+          "evaluateQuanty": 157,
+          "inventory": 20
+        },
+        {
+          "id": 26,
+          "image": "https://cdn.tgdd.vn/Products/Images/1943/226358/samsung-rt32k5932by-sv-300x300.jpg",
+          "name": "Samsung Inverter 319 lít RT32K5932BY/SV",
+          "specialFeature": "",
+          "online": false,
+          "price": 14390000,
+          "sale": 29,
+          "gift": "Quà 300.000đ",
+          "star": 3,
+          "evaluateQuanty": 11,
+          "inventory": 20
+        },
+        {
+          "id": 27,
+          "image": "https://cdn.tgdd.vn/Products/Images/1943/220320/samsung-rt20har8dbu-sv-300x300.jpg",
+          "name": "Samsung Inverter 208 lít RT20HAR8DBU/SV",
+          "specialFeature": "",
+          "online": true,
+          "price": 7590000,
+          "sale": 13,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 102,
+          "inventory": 20
+        },
+        {
+          "id": 28,
+          "image": "https://cdn.tgdd.vn/Products/Images/1943/239480/panasonic-inverter-366-lit-nr-tl381vgmv-ava-300x300.jpg",
+          "name": "Panasonic 366 lít NR-TL381VGMV",
+          "specialFeature": "",
+          "online": true,
+          "price": 16990000,
+          "sale": 20,
+          "gift": "Quà 300.000đ",
+          "star": 5,
+          "evaluateQuanty": 11,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Máy lạnh",
+      "list": [
+        {
+          "id": 29,
+          "image": "https://cdn.tgdd.vn/Products/Images/2002/217466/midea-msafa-10crdn8-2-550x160.jpg",
+          "name": "Midea Inverter 1HP MSAFA-10CRDN8",
+          "specialFeature": "",
+          "online": false,
+          "price": 8590000,
+          "sale": 6,
+          "gift": "Quà 1.150.000đ",
+          "star": 4,
+          "evaluateQuanty": 144,
+          "inventory": 20
+        },
+        {
+          "id": 30,
+          "image": "https://cdn.tgdd.vn/Products/Images/2002/153825/panasonic-cu-cs-xu9ukh-8-10-550x160.jpg",
+          "name": "Panasonic Inverter 1 HP CU/CS-XU9UKH-8",
+          "specialFeature": "",
+          "online": false,
+          "price": 12190000,
+          "sale": 0,
+          "gift": "Quà 800.000đ",
+          "star": 4,
+          "evaluateQuanty": 260,
+          "inventory": 20
+        },
+        {
+          "id": 31,
+          "image": "https://cdn.tgdd.vn/Products/Images/2002/236391/1hpftka25vmvmv-550x160.jpg",
+          "name": "Daikin Inverter 1 HP FTKA25VMVMV",
+          "specialFeature": "",
+          "online": false,
+          "price": 10590000,
+          "sale": 0,
+          "gift": "Giảm thêm 100.000đ và Quà 800.000đ",
+          "star": 3,
+          "evaluateQuanty": 46,
+          "inventory": 20
+        },
+        {
+          "id": 32,
+          "image": "https://cdn.tgdd.vn/Products/Images/2002/218663/panasonic-cu-cs-pu12wkh-8m-1-550x160.jpg",
+          "name": "Panasonic Inverter 1.5 HP CU/CS-PU12WKH-8M",
+          "specialFeature": "",
+          "online": false,
+          "price": 12890000,
+          "sale": 0,
+          "gift": "Giảm thêm 400.000đ và Quà 800.000đ",
+          "star": 3,
+          "evaluateQuanty": 110,
+          "inventory": 20
+        },
+        {
+          "id": 33,
+          "image": "https://cdn.tgdd.vn/Products/Images/2002/236393/1.5hpftka35vmvmv-550x160.jpg",
+          "name": "Daikin Inverter 1.5 HP FTKA35VMVMV",
+          "specialFeature": "",
+          "online": false,
+          "price": 12990000,
+          "sale": 0,
+          "gift": "Giảm thêm 100.000đ và Quà 800.000đ",
+          "star": 3,
+          "evaluateQuanty": 141,
+          "inventory": 20
+        },
+        {
+          "id": 34,
+          "image": "https://cdn.tgdd.vn/Products/Images/2002/234166/lg-v10enh1-thumb1-550x160.jpg",
+          "name": "LG Inverter 1 HP V10ENH1",
+          "specialFeature": "",
+          "online": false,
+          "price": 9390000,
+          "sale": 6,
+          "gift": "Giảm thêm 500.000đ và Quà 1.445.000đ",
+          "star": 3,
+          "evaluateQuanty": 81,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Loa, Dàn Karaoke",
+      "list": [
+        {
+          "id": 35,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/236681/keo-mobell-mk2120c--1-300x300.jpg",
+          "name": "Loa kéo Mobell MK-2120C 30W",
+          "specialFeature": "30W",
+          "online": false,
+          "price": 1890000,
+          "sale": 0,
+          "gift": "Quà 100.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 36,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/232105/nanomax-s-900-300x300.jpg",
+          "name": "Loa kéo Karaoke Nanomax S-900",
+          "specialFeature": "420W",
+          "online": false,
+          "price": 5490000,
+          "sale": 5,
+          "gift": "Quà 300.000đ",
+          "star": 3,
+          "evaluateQuanty": 24,
+          "inventory": 20
+        },
+        
+        {
+          "id": 38,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/229096/loa-keo-bluetooth-mozard-l0629k-den-xam-600x600.jpg",
+          "name": "Loa Kéo Bluetooth Mozard L0629K Đen Xám",
+          "specialFeature": "24W",
+          "online": false,
+          "price": 2200000,
+          "sale": 30,
+          "gift": "Quà 1.150.000đ",
+          "star": 4,
+          "evaluateQuanty": 18,
+          "inventory": 20
+        },
+        {
+          "id": 39,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/194825/loa-keo-bluetooth-enkor-l0810k-den-1-1-600x600.jpg",
+          "name": "Loa Kéo Bluetooth Karaoke Enkor L0810K Đen 25W",
+          "specialFeature": "25W",
+          "online": false,
+          "price": 1800000,
+          "sale": 30,
+          "gift": "",
+          "star": 3,
+          "evaluateQuanty": 35,
+          "inventory": 20
+        },
+        {
+          "id": 40,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/226094/loa-karaoke-nanomax-s-1000-222620-112615-600x600.jpg",
+          "name": "Loa kéo Karaoke Nanomax S-1000 450W",
+          "specialFeature": "450W",
+          "online": false,
+          "price": 6690000,
+          "sale": 0,
+          "gift": "Quà 300.000đ",
+          "star": 3,
+          "evaluateQuanty": 21,
+          "inventory": 20
+        },
+        {
+          "id": 41,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/202728/loa-keo-lg-rl2-10-600x600.jpg",
+          "name": "Loa kéo karaoke LG RL2 50W",
+          "specialFeature": "50W",
+          "online": false,
+          "price": 5390000,
+          "sale": 51,
+          "gift": "Quà 300.000đ",
+          "star": 4,
+          "evaluateQuanty": 40,
+          "inventory": 20
+        },
+        {
+          "id": 42,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/220699/samsung-mx-t70-xv-6-300x300.jpg",
+          "name": "Loa Tháp Samsung MX-T70/XV",
+          "specialFeature": "1500W",
+          "online": false,
+          "price": 10990000,
+          "sale": 39,
+          "gift": "Quà 650.000đ",
+          "star": 4,
+          "evaluateQuanty": 24,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Xe đạp",
+      "list": [
+        {
+          "id": 43,
+          "image": "https://cdn.tgdd.vn/Products/Images/9758/245476/mtb-fascino-fs-01-20-inch-den-xanh-550x340.jpg",
+          "name": "Xe đạp địa hình MTB Fascino FS-01 20 inch Đen xanh",
+          "specialFeature": "Bánh 20\", Sườn thép",
+          "online": false,
+          "price": 2750000,
+          "sale": 15,
+          "gift": "Quà 200.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 44,
+          "image": "https://cdn.tgdd.vn/Products/Images/9758/249776/mtb-forever-f1904-den-vang-100921-100915-550x340.jpg",
+          "name": "Xe đạp địa hình MTB Forever F1904 27.5 inch Đen vàng",
+          "specialFeature": "Bánh 27.5\", Sườn hợp kim nhôm",
+          "online": false,
+          "price": 9800000,
+          "sale": 15,
+          "gift": "Quà 200.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 45,
+          "image": "https://cdn.tgdd.vn/Products/Images/9758/244671/mtb-fornix-r20-20-inch-den-doava-550x340.jpg",
+          "name": "Xe đạp địa hình MTB Fornix R20 20 inch Đen đỏ",
+          "specialFeature": "Bánh 20\", Sườn thép",
+          "online": false,
+          "price": 2990000,
+          "sale": 15,
+          "gift": "Quà 200.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 46,
+          "image": "https://cdn.tgdd.vn/Products/Images/9758/244671/mtb-fornix-r20-20-inch-den-doava-550x340.jpg",
+          "name": "Xe đạp địa hình MTB Fornix R20 20 inch Đen đỏ",
+          "specialFeature": "Bánh 20\", Sườn thép",
+          "online": false,
+          "price": 2990000,
+          "sale": 15,
+          "gift": "Quà 200.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 47,
+          "image": "https://cdn.tgdd.vn/Products/Images/9758/244671/mtb-fornix-r20-20-inch-den-doava-550x340.jpg",
+          "name": "Xe đạp địa hình MTB Fornix R20 20 inch Đen đỏ",
+          "specialFeature": "Bánh 20\", Sườn thép",
+          "online": false,
+          "price": 2990000,
+          "sale": 15,
+          "gift": "Quà 200.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Đồ dùng nhà bếp",
+      "list": [
+        {
+          "id": 48,
+          "image": "https://cdn.tgdd.vn/Products/Images/2403/203358/chao-nhom-chong-dinh-day-tu-phu-van-da-dmx-cdd-26c-17-600x600.jpg",
+          "name": "Chảo nhôm chống dính đáy từ 26 cm DMX CDD",
+          "specialFeature": "",
+          "online": false,
+          "price": 240000,
+          "sale": 35,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 18,
+          "inventory": 20
+        },
+        {
+          "id": 49,
+          "image": "https://cdn.tgdd.vn/Products/Images/2403/203358/chao-nhom-chong-dinh-day-tu-phu-van-da-dmx-cdd-26c-17-600x600.jpg",
+          "name": "Chảo nhôm chống dính đáy từ 26 cm DMX CDD",
+          "specialFeature": "",
+          "online": false,
+          "price": 240000,
+          "sale": 35,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 18,
+          "inventory": 20
+        },
+        {
+          "id": 50,
+          "image": "https://cdn.tgdd.vn/Products/Images/2403/203358/chao-nhom-chong-dinh-day-tu-phu-van-da-dmx-cdd-26c-17-600x600.jpg",
+          "name": "Chảo nhôm chống dính đáy từ 26 cm DMX CDD",
+          "specialFeature": "",
+          "online": false,
+          "price": 240000,
+          "sale": 35,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 18,
+          "inventory": 20
+        },
+        {
+          "id": 51,
+          "image": "https://cdn.tgdd.vn/Products/Images/2403/203358/chao-nhom-chong-dinh-day-tu-phu-van-da-dmx-cdd-26c-17-600x600.jpg",
+          "name": "Chảo nhôm chống dính đáy từ 26 cm DMX CDD",
+          "specialFeature": "",
+          "online": false,
+          "price": 240000,
+          "sale": 35,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 18
+        },
+        {
+          "id": 52,
+          "image": "https://cdn.tgdd.vn/Products/Images/2403/203358/chao-nhom-chong-dinh-day-tu-phu-van-da-dmx-cdd-26c-17-600x600.jpg",
+          "name": "Chảo nhôm chống dính đáy từ 26 cm DMX CDD",
+          "specialFeature": "",
+          "online": false,
+          "price": 240000,
+          "sale": 35,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 18,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Điện thoại",
+      "list": [
+        {
+          "id": 53,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/226935/samsung-galaxy-z-fold-3-silver-1-600x600.jpg",
+          "name": "Samsung Galaxy Z Fold3 5G 256GB",
+          "specialFeature": "",
+          "online": false,
+          "price": 41990000,
+          "sale": 0,
+          "gift": "Quà 15.999.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 20
+        },
+        {
+          "id": 54,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-den-1-2-600x600.jpg",
+          "name": "iPhone 12 64GB",
+          "specialFeature": "",
+          "online": false,
+          "price": 20490000,
+          "sale": 8,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 87,
+          "inventory": 20
+        },
+        {
+          "id": 55,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/246200/redmi-10-gray-600x600.jpg",
+          "name": "Xiaomi Redmi 10 (6GB/128GB)",
+          "specialFeature": "",
+          "online": false,
+          "price": 4690000,
+          "sale": 0,
+          "gift": "Quà 200.000đ",
+          "star": 4,
+          "evaluateQuanty": 104,
+          "inventory": 20
+        },
+        {
+          "id": 56,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/230630/vivo-y12s-den-new-600x600-600x600.jpg",
+          "name": "Vivo Y12s (4GB/128GB)",
+          "specialFeature": "",
+          "online": false,
+          "price": 4290000,
+          "sale": 11,
+          "gift": "Quà 200.000đ",
+          "star": 3,
+          "evaluateQuanty": 97,
+          "inventory": 20
+        },
+        {
+          "id": 57,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/239747/oppo-reno6-z-5g-aurora-1-600x600.jpg",
+          "name": "OPPO Reno6 Z 5G",
+          "specialFeature": "",
+          "online": false,
+          "price": 9490000,
+          "sale": 0,
+          "gift": "Quà 300.000đ",
+          "star": 3,
+          "evaluateQuanty": 43,
+          "inventory": 20
+        }
+      ]
+    },
+    {
+      "type": "Phụ kiện",
+      "list": [
+        {
+          "id": 58,
+          "image": "https://cdn.tgdd.vn/Products/Images/54/248452/bluetooth-true-wireless-samsung-buds-2-r177n-avatar2-600x600.jpg",
+          "name": "Tai nghe Bluetooth True Wireless Samsung Galaxy Buds 2 R177N",
+          "specialFeature": "Ambient Sound, Active Noise Cancelling",
+          "online": false,
+          "price": 2990000,
+          "sale": 0,
+          "gift": "Quà 250.000đ",
+          "star": 5,
+          "evaluateQuanty": 0,
+          "inventory": 0
+        },
+        {
+          "id": 59,
+          "image": "https://cdn.tgdd.vn/Products/Images/2162/225536/loa-bluetooth-sony-extra-bass-srs-xb23-den-av-600x600.jpg",
+          "name": "Loa Bluetooth Sony Extra Bass SRS-XB23",
+          "specialFeature": "",
+          "online": true,
+          "price": 2490000,
+          "sale": 10,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 8,
+          "inventory": 0
+        },
+        {
+          "id": 60,
+          "image": "https://cdn.tgdd.vn/Products/Images/54/236026/airpods-pro-wireless-charge-apple-mwp22-ava-600x600.jpg",
+          "name": "Tai nghe Bluetooth AirPods Pro Wireless Charge Apple MWP22",
+          "specialFeature": "Adaptive EQ, Active Noise Cancelling",
+          "online": true,
+          "price": 6790000,
+          "sale": 17,
+          "gift": "",
+          "star": 5,
+          "evaluateQuanty": 10,
+          "inventory": 0
+        },
+        {
+          "id": 61,
+          "image": "https://cdn.tgdd.vn/Products/Images/54/238028/bluetooth-true-wireless-hydrus-ts12bc-ava-2-600x600.jpg",
+          "name": "Tai nghe Bluetooth True Wireless Hydrus TS12BC",
+          "specialFeature": "",
+          "online": true,
+          "price": 550000,
+          "sale": 50,
+          "gift": "",
+          "star": 2,
+          "evaluateQuanty": 29,
+          "inventory": 0
+        },
+        {
+          "id": 62,
+          "image": "https://cdn.tgdd.vn/Products/Images/57/174748/sac-du-phong-polymer-10000mah-qc-3-evalu-pa-f1-air-avatar-1-600x600.jpg",
+          "name": "Pin sạc dự phòng Polymer 10.000 mAh Type C QC3.0 eValu PA F1 Air",
+          "specialFeature": "",
+          "online": true,
+          "price": 600000,
+          "sale": 45,
+          "gift": "",
+          "star": 4,
+          "evaluateQuanty": 66,
+          "inventory": 0
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/16/1383126/dat-truoc-sieu-pham-lg-qned-mini-led-1-318x154.jpg",
+      "content": "Đặt trước tuyệt phẩm LG QNED Mini LED nhận ưu đãi hấp dẫn đến 30 triệu"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.tgdd.vn/Files/2020/09/14/1290172/may-loc-nuoc-ion-kiem-la-gi-co-tot-khong--7-318x154.jpg",
+      "content": "Máy lọc nước điện giải ion là gì? Có tốt không? Vì sao giá đắt?"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.tgdd.vn/Files/2021/06/09/1358889/xe-dap-the-thao-la-gi-gom-nhung-loai-nao--8-318x154.jpg",
+      "content": "Xe đạp thể thao là gì? Các loại xe đạp thể thao phổ biến hiện nay"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/15/1382935/vui-trung-thu-tang-dong-ho-tre-em-xinh-xan-khi-mu-318x154.jpg",
+      "content": "Vui Trung Thu, Tặng đồng hồ trẻ em xinh xắn khi mua xe đạp trẻ em tại Điện máy XANH"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.tgdd.vn/Files/2020/02/03/1234080/top-4-may-lanh-co-phat-ion-giup-han-che-vi-khuan-virus-trong-nha-1-318x154.jpg",
+      "content": "Top 8 máy lạnh có phát ion giúp hạn chế vi khuẩn, virus trong nhà"
+    }
+  ],
+  "sale": [
+    {
+      "id": 1,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/24/1385277/thanh-toan-qua-the-tin-dung-sacombank-duoc-hoan-ti-665x320.jpg",
+      "title": "Hoàn tiền 500.000đ cho sản phẩm Laptop từ 15 triệu khi thanh toán qua thẻ tín dụng Sacombank",
+      "postDate": "3 ngày trước",
+      "content": "Từ ngày 25/9 - 31/12/2021, khách hàng khi mua sản phẩm laptop từ 15 triệu đồng trở lên thanh toán bằng thẻ tín dụng Sacombank tại Điện máy XANH sẽ được hoàn tiền 500.000đ."
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/21/1384513/vnpay-giam-400k-khi-thanh-toan-san-pham-dong-ho-1-665x320.jpeg",
+      "title": "Giảm 400K khi thanh toán đồng hồ Samsung Galaxy Watch 4 qua VNPAY",
+      "postDate": "4 ngày trước",
+      "content": "Cơ hội sở hữu đồng hồ thông minh Samsung Galaxy Watch 4 với mã giảm giá đến 400.000đ tại Điện máy XANH khi thanh toán qua VNPAY. Thanh toán an toàn, tiện lợi cùng ưu đãi cực kì hấp dẫn, tìm hiểu ngay!"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/22/1384739/nhan-ngay-adobe-creative-cloud-mien-phi-khi-mua-man-hinh-asus-665x320.jpg",
+      "title": "Khuyến mãi chưa từng có, nhận ngay Adobe Creative Cloud miễn phí khi mua màn hình máy tính ASUS đây, đừng bỏ lỡ",
+      "postDate": "5 ngày trước",
+      "content": "Khuyến mãi đặc biệt chưa từng có đây, đó là khi mua màn hình máy tính ASUS và ROG bạn sẽ được tặng gói Adobe Creative Cloud miễn phí. Quá hấp dẫn phải không? Vậy còn chần chừ gì không mau lướt xuống bên để tìm hiểu ngay thôi nào!"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/16/1383126/dat-truoc-sieu-pham-lg-qned-mini-led-1-665x320.jpg",
+      "title": "Đặt trước tuyệt phẩm LG QNED Mini LED nhận ưu đãi hấp dẫn đến 30 triệu",
+      "postDate": "7 ngày trước",
+      "content": "Cơ hội cho bạn sở hữu tuyệt phẩm LG QNED Mini LED - Một cải tiến đỉnh cao của dòng tivi LCD, mở ra một kỷ nguyên mới với độ tương phản và độ nét cực cao, màu đen trở nên trung thực hơn và màu sắc sống động hơn. Đặc biệt ngay bộ quà tặng giá trị lên đến 30.000.000đ. Nhanh tay, đặt ngay hôm nay!"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/20/1384220/goi-bao-hanh-bao-hiem-khi-mua-vivo-x70-pro-665x320.jpg",
+      "title": "Tất tần tật về gói bảo hành, bảo hiểm mà bạn nên biết khi mua Vivo X70 Pro ở Thế Giới Di Động, đừng bỏ lỡ đấy",
+      "postDate": "7 ngày trước",
+      "content": "Bên cạnh những quà tặng cực kì giá trị như tai nghe, giảm sốc,... khi mua Vivo X70 Pro, bạn sẽ còn nhận được thêm gói ưu đãi đặc biệt. Cụ thể, đó là gói bảo hành 18 tháng và bảo hiểm rơi vỡ 6 tháng. Để biết thêm chi tiết, hãy cùng tham khảo ở ngay bên dưới."
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/15/1382935/vui-trung-thu-tang-dong-ho-tre-em-xinh-xan-khi-mu-665x320.jpg",
+      "title": "Vui Trung Thu, Tặng đồng hồ trẻ em xinh xắn khi mua xe đạp trẻ em tại Điện máy XANH",
+      "postDate": "1 tuần trước",
+      "content": "Từ ngày 25/9 - 31/12/2021, khách hàng khi mua sản phẩm laptop từ 15 triệu đồng trở lên thanh toán bằng thẻ tín dụng Sacombank tại Điện máy XANH sẽ được hoàn tiền 500.000đ."
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/16/1383328/trung-thu-tung-bung-cuoi-tuan-giam-lon-den-50-1-665x320.jpg",
+      "title": "Hoàn tiền 500.000đ cho sản phẩm Laptop từ 15 triệu khi thanh toán qua thẻ tín dụng Sacombank",
+      "postDate": "3 ngày trước",
+      "content": "Từ ngày 25/9 - 31/12/2021, khách hàng khi mua sản phẩm laptop từ 15 triệu đồng trở lên thanh toán bằng thẻ tín dụng Sacombank tại Điện máy XANH sẽ được hoàn tiền 500.000đ."
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/15/1382870/thu-cu-doi-moi-len-doi-sieu-pham-2021-665x320.jpg",
+      "title": "Hoàn tiền 500.000đ cho sản phẩm Laptop từ 15 triệu khi thanh toán qua thẻ tín dụng Sacombank",
+      "postDate": "3 ngày trước",
+      "content": "Từ ngày 25/9 - 31/12/2021, khách hàng khi mua sản phẩm laptop từ 15 triệu đồng trở lên thanh toán bằng thẻ tín dụng Sacombank tại Điện máy XANH sẽ được hoàn tiền 500.000đ."
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/15/1382822/sai-gon-giao-hang-tro-lai-an-toan-mien-phi-tang-665x320.jpeg",
+      "title": "Hoàn tiền 500.000đ cho sản phẩm Laptop từ 15 triệu khi thanh toán qua thẻ tín dụng Sacombank",
+      "postDate": "3 ngày trước",
+      "content": "Từ ngày 25/9 - 31/12/2021, khách hàng khi mua sản phẩm laptop từ 15 triệu đồng trở lên thanh toán bằng thẻ tín dụng Sacombank tại Điện máy XANH sẽ được hoàn tiền 500.000đ."
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.tgdd.vn/Files/2021/09/08/1381062/huong-dan-thanh-toan-iphone-moi-qua-vnpay-665x320.jpg",
+      "title": "Hoàn tiền 500.000đ cho sản phẩm Laptop từ 15 triệu khi thanh toán qua thẻ tín dụng Sacombank",
+      "postDate": "3 ngày trước",
+      "content": "Từ ngày 25/9 - 31/12/2021, khách hàng khi mua sản phẩm laptop từ 15 triệu đồng trở lên thanh toán bằng thẻ tín dụng Sacombank tại Điện máy XANH sẽ được hoàn tiền 500.000đ."
+    }
+  ],
+  "saleCode": [
+    {
+      "id": 1,
+      "code": "SALE20",
+      "sale": 20
+    },
+    {
+      "id": 2,
+      "code": "SALE30",
+      "sale": 30
+    },
+    {
+      "id": 3,
+      "code": "SALE50",
+      "sale": 50
+    }
+  ],
+  "navPath": [
+    {
+      "id": 1,
+      "icon": "fa fa-television",
+      "item": [
+        {
+          "title": "Tivi",
+          "path": "tivi"
+        },
+        {
+          "title": "Loa, Dàn Karaoke",
+          "path": "loa-dan-karaoke"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "fa fa-television",
+      "item": [
+        {
+          "title": "Tủ lạnh",
+          "path": "tu-lanh"
+        },
+        {
+          "title": "Tủ đông",
+          "path": "tu-dong"
+        },
+        {
+          "title": "Tủ mát",
+          "path": "tu-mat"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "fa fa-television",
+      "item": [
+        {
+          "title": "Máy giặt",
+          "path": "may-giat"
+        },
+        {
+          "title": "Sấy quần áo",
+          "path": "say-quan-ao"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "fa fa-television",
+      "item": [
+        {
+          "title": "Máy lạnh",
+          "path": "may-lanh"
+        },
+        {
+          "title": "Quạt điều hòa",
+          "path": "quat-dieu-hoa"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "fa fa-television",
+      "item": [
+        {
+          "title": "Điện gia dụng",
+          "path": "dien-gia-dung"
+        },
+        {
+          "title": "Dụng cụ",
+          "path": "dung-cu"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "fa fa-television",
+      "item": [
+        {
+          "title": "Đồ dùng nhà bếp",
+          "path": "do-dung-nha-bep"
+        },
+        {
+          "title": "Mẹ và bé",
+          "path": "me-va-be"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "fa fa-tint",
+      "item": [
+        {
+          "title": "Lọc nước",
+          "path": "loc-nuoc"
+        },
+        {
+          "title": "Máy nước nóng",
+          "path": "may-nuoc-nong"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "fa fa-mobile",
+      "item": [
+        {
+          "title": "Điện thoại",
+          "path": "dien-thoai"
+        },
+        {
+          "title": "Laptop",
+          "path": "laptop"
+        },
+        {
+          "title": "Tablet",
+          "path": "tablet"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "icon": "fa fa-headphones",
+      "item": [
+        {
+          "title": "Phụ kiện",
+          "path": "phu-kien"
+        },
+        {
+          "title": "Đồng hồ",
+          "path": "dong-ho"
+        },
+        {
+          "title": "Vali",
+          "path": "vali"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "icon": "fa fa-refresh",
+      "item": [
+        {
+          "title": "Máy cũ",
+          "path": "may-cu"
+        },
+        {
+          "title": "Trung bày",
+          "path": "trung-bay"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "icon": "fa fa-bicycle",
+      "item": [
+        {
+          "title": "Xe đạp",
+          "path": "xe-dap"
+        },
+        {
+          "title": "Phụ kiện xe đạp",
+          "path": "phu-kien-xe-dap"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "icon": "fa fa-bicycle",
+      "item": [
+        {
+          "title": "Dịch vụ hữu ích",
+          "path": "dich-vu-huu-ich"
+        }
+      ]
+    }
+  ]
+}

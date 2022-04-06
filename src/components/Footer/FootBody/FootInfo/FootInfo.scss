@@ -1,0 +1,43 @@
+.info-and-link {
+  padding-top: 16px;
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+
+  .info-item {
+    width: 33.33333%;
+    list-style-type: none;
+
+    a {
+      text-decoration: none;
+    }
+
+    li {
+      padding: 6px 0;
+    }
+    &.info-left li:hover {
+      color: #4d90e0;
+      cursor: pointer;
+    }
+  }
+
+  .info-right {
+    &-top {
+      padding: 6px 0;
+    }
+    p {
+      margin: 8px 0 0;
+    }
+    span {
+      color: #4d90e0;
+    }
+    img {
+      padding-right: 8px;
+
+      &:hover {
+        cursor: pointer;
+        opacity: 0.8;
+      }
+    }
+  }
+}

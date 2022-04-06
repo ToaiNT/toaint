@@ -1,0 +1,63 @@
+.product-slider2 {
+  position: relative;
+  margin: 24px 0;
+
+  color: #838383;
+  background-color: #fff;
+
+  border-radius: 4px;
+  padding-bottom: 24px;
+
+  .carousel-indicators {
+    display: block;
+    text-align: left;
+
+    position: absolute;
+    top: 12px;
+    left: 8px;
+
+    height: 40px;
+
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    box-shadow: none;
+
+    padding: 0;
+
+    .active {
+      background-color: #4d90e0;
+    }
+
+    & [data-bs-target] {
+      border-radius: 4px;
+      padding: 4px 16px;
+
+      width: auto;
+      height: auto;
+
+      margin-right: 8px;
+      margin-left: 0;
+
+      text-indent: -0;
+
+      cursor: pointer;
+      border: 1px solid #ccc;
+    }
+  }
+
+  .carousel-inner {
+    padding-top: 52.8px;
+  }
+}
+
+.slick-list {
+  margin: 0 4px;
+  .slick-track {
+    display: flex !important;
+
+    .slick-slide {
+      justify-content: center !important;
+    }
+  }
+}

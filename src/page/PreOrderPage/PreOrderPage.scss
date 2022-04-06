@@ -1,0 +1,14 @@
+.pre-order-page {
+    background-image: url(./bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .content {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 25px 0;
+    }
+    img {
+        width: 100%;
+    }
+}
